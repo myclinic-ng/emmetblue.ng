@@ -19,7 +19,7 @@ export class ProviderSignupComponent implements OnInit {
 	public showUserRole: boolean = false;
 
 	public showForm: string = "providerType";
-
+	
 	public progressPercent: number = 25;
 
 	constructor(private httpService: HttpService) { 

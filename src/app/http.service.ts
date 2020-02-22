@@ -15,4 +15,10 @@ export class HttpService {
 
   	return this.http.post(url, requestData);
   }
+
+  sendMail(requestData: any): any {
+    let url = this.server+"/mail/new";
+
+    return this.http.post(url, requestData);
+  }
 }

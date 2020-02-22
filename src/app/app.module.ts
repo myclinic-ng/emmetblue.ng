@@ -13,6 +13,7 @@ import { ProviderSignupComponent } from './provider-signup/provider-signup.compo
 import { ComingSoonComponent } from './coming-soon/coming-soon.component';
 
 import { HttpService } from './http.service';
+import { PayComponent } from './pay/pay.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { HttpService } from './http.service';
     HomeComponent,
     RequestDemoComponent,
     ProviderSignupComponent,
-    ComingSoonComponent
+    ComingSoonComponent,
+    PayComponent
   ],
   imports: [
     BrowserModule,
