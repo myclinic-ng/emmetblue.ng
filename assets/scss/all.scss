@@ -2,12 +2,17 @@
 
 
 *{
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif!important;
 }
 
+//
+// $deepblue: #34495e;
+// $skyblue: #3498db;
+// $green: #2ecc71;
 
-$deepblue: #34495e;
-$skyblue: #3498db;
+
+$deepblue: #070353;
+$skyblue: #52aae5;
 $green: #2ecc71;
 
 ::-webkit-scrollbar {
@@ -21,7 +26,7 @@ $green: #2ecc71;
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: $green;
+      background: $green;
 }
 
 
