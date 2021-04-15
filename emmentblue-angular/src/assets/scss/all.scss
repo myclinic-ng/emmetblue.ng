@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+*{
+  font-family: "Poppins", sans-serif!important;
+}
+
+//
+// $deepblue: #34495e;
+// $skyblue: #3498db;
+// $green: #2ecc71;
+
+
+$deepblue: #070353;
+$skyblue: #52aae5;
+$green: #2ecc71;
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: $skyblue;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+      background: $green;
+}
+
+
+@import "index";
