@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Evaluation Version) -->
+<?xml-stylesheet href="Gradient Subtraction Shape.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000mm" height="1000mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 100000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+ <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="28782.32" y1="66621.57" x2="67701.94" y2="28550.1">
+  <stop offset="0" style="stop-opacity:1; stop-color:#3498DB"/>
+  <stop offset="0.509804" style="stop-opacity:1; stop-color:#3474A2"/>
+  <stop offset="1" style="stop-opacity:1; stop-color:#34495E"/>
+ </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="Subtraction_2-2" class="fil0" d="M22953.69 35136c216.62,212.02 561.1,479.12 832.22,664.57 2158.93,1476.72 5403.01,2391.53 8056.27,2907.71 4521.53,879.65 8678.93,-221.37 13003.34,-1722.35 1135.75,-394.23 2290.37,-819.79 3512.77,-1270.4l0.77 -0.26c1864.52,-687.33 3792.51,-1398.08 5893.88,-2086.13 5053.34,-1654.67 10962.41,-1386.36 16119.88,-298.78 1019.78,215.04 2488.43,578.01 3387.38,878.97l0 27204.62 0.18 0.02 -7.43 0 0 -3939.83c0,1094.09 -454.47,2181.77 -1298.58,2890.02 -942.44,790.75 -2199.41,1032.43 -3400.49,1038.34 -167.67,0.82 -325.17,4.74 -468.13,11.59l-40464.91 -0.19c-142.88,-6.85 -300.33,-10.74 -468.15,-11.59 -1491.68,-7.56 -3058.28,-387.29 -3979.49,-1661.4 -471.81,-652.55 -720.94,-1463.29 -719.51,-2266.79l0 -69.05c-0.07,-2.06 -0.15,-4.13 -0.22,-6.21l0.01 -8.74c-1.71,-76.4 0.21,-120.24 0.21,-121.5l0 -22132.62z" data-name="Subtraction 2"/>
+ </g>
+</svg>
